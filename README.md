@@ -136,7 +136,7 @@ sudo apt-get install finger
 
 once the update running the terminal will ask if you need to update a new version of one file. Just select (keep the local one).
 
-16- Go back to vagrant@ubuntu terminal and create the ssh-keygen for the user by typing:
+16- open a new terminal and create the ssh-keygen for the user by typing:
 
 ```
 $ssh-keygen -f ~/.ssh/id_rsa #select the file name you want
