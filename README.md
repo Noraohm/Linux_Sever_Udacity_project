@@ -3,8 +3,11 @@ The project is to deploy the Item catalog program on the server by Amazon lights
 
 # Details
 IP address: 3.8.175.47
+
 User grader key : ssh -i ~/.ssh/key.rsa grader@3.8.175.47 -p 2200
+
 Ubuntu key : ssh -i ~/.ssh/key.pem ubuntu@3.8.175.47 -p 2200
+
 Host name: http://ec2-3-8-175-47.eu-west-2.compute.amazonaws.com/
 
 ## URL:
